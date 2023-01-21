@@ -1,0 +1,4 @@
+145,Maldivi,C32,254
+146,Nex York,F12,842
+147,London,A5,145
+148,Moscow,G69,200
